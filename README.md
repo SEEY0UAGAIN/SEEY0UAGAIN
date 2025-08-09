@@ -8,7 +8,7 @@ A recent Information Technology graduate seeking an opportunity to begin a caree
 
 * 🖥️  See my portfolio at [djames.xyz](http://djames.xyz/)
 * ✉️  You can contact me at [popzzxc@gmail.com](mailto:popzzxc@gmail.com)
-* 🧠  I'm learning ReactJS, NodeJS
+* 🧠  I'm learning Typescript, Docker, 
 
 ### Skills
 
